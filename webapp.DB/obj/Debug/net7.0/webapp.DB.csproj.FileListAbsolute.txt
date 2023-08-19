@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\team2-batch10\Backend\WebApplication_sol\webapp.DB\bin\Debug\net7.0\webapp.DB.deps.json
+C:\Users\Administrator\Desktop\team2-batch10\Backend\WebApplication_sol\webapp.DB\bin\Debug\net7.0\webapp.DB.runtimeconfig.json
+C:\Users\Administrator\Desktop\team2-batch10\Backend\WebApplication_sol\webapp.DB\bin\Debug\net7.0\webapp.DB.dll
+C:\Users\Administrator\Desktop\team2-batch10\Backend\WebApplication_sol\webapp.DB\bin\Debug\net7.0\webapp.DB.pdb
+C:\Users\Administrator\Desktop\team2-batch10\Backend\WebApplication_sol\webapp.DB\obj\Debug\net7.0\webapp.DB.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\team2-batch10\Backend\WebApplication_sol\webapp.DB\obj\Debug\net7.0\webapp.DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\team2-batch10\Backend\WebApplication_sol\webapp.DB\obj\Debug\net7.0\webapp.DB.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\team2-batch10\Backend\WebApplication_sol\webapp.DB\obj\Debug\net7.0\webapp.DB.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\team2-batch10\Backend\WebApplication_sol\webapp.DB\obj\Debug\net7.0\webapp.DB.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\team2-batch10\Backend\WebApplication_sol\webapp.DB\obj\Debug\net7.0\webapp.DB.dll
+C:\Users\Administrator\Desktop\team2-batch10\Backend\WebApplication_sol\webapp.DB\obj\Debug\net7.0\refint\webapp.DB.dll
+C:\Users\Administrator\Desktop\team2-batch10\Backend\WebApplication_sol\webapp.DB\obj\Debug\net7.0\webapp.DB.pdb
+C:\Users\Administrator\Desktop\team2-batch10\Backend\WebApplication_sol\webapp.DB\obj\Debug\net7.0\webapp.DB.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\team2-batch10\Backend\WebApplication_sol\webapp.DB\obj\Debug\net7.0\ref\webapp.DB.dll
